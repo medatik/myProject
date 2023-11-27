@@ -1,3 +1,8 @@
 h1 {
     color: brown;
 }
+
+p {
+    color: gray;
+    letter-spacing: 5px;
+}
