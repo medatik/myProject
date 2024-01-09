@@ -1,1 +1,1 @@
-confirm('Sallaaaam!!');
+alert('Sallaaaam!!');
